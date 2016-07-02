@@ -1,8 +1,8 @@
 FROM ubuntu:14.04
 MAINTAINER Haris Amin <aminharis7@gmail.com>
 
-ENV SWIFT_BRANCH swift-3.0-preview-1
-ENV SWIFT_VERSION 3.0-PREVIEW-1
+ENV SWIFT_BRANCH swift-2.2.1-release
+ENV SWIFT_VERSION 2.2.1-RELEASE
 
 ENV SWIFT_PLATFORM ubuntu14.04
 
